@@ -2,6 +2,10 @@
 
 # Task 1B
 
+```
+SYSTEM : KALI LINUX
+```
+
 ## Challenge Overview
 
 As part of **GDG Cybersecurity Recruitment 2026**, we were provided with a Linux executable named `apple_pie`. The binary was advertised as being protected using modern security mechanisms along with basic obfuscation techniques.
